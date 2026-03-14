@@ -3,4 +3,5 @@
 # contributor
 
 - arya
+- bob 
 - alice
